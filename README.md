@@ -28,4 +28,4 @@
 * **git push**: Envia todas as alterações que você salvou no seu PC para o servidor do GitHub.
   * `git push origin main`
 * **git pull**: Puxa e atualiza o seu código local com as novidades que estão no servidor do GitHub.
-  * `git pull origin main`# remoto
+  * `git pull origin main`
