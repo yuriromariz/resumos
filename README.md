@@ -1,6 +1,6 @@
 # 🚀 Guia Rápido de Git e GitHub - Bootcamp Avanade
 
-### 🛠️ Configuração Inicial (Executar uma única vez)
+### 🛠️ Configuração Inicial
 * **git config --global user.name**: Define o nome de exibição que aparecerá em todos os seus registros de código.
   * `git config --global user.name "Seu Nome"`
 * **git config --global user.email**: Vincula o seu e-mail do GitHub aos seus arquivos para gerar o seu histórico.
